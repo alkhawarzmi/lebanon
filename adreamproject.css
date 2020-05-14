@@ -24,4 +24,4 @@ html[dir="rtl"] .tg-0lax{text-align:right;}
 .charts iframe #embed_chart {width: 90%; margin: 0 auto;}
 html[dir="rtl"] .navbar-default .navbar-toggle, .navbar-inverse .navbar-toggle {left: 10px !important; right: auto;}
 html[dir="rtl"] .navbar-brand {float: right;}
-iframe.googleform > .freebirdFormviewerViewCenteredContent {width: 100% !important;}
+iframe.googleform .freebirdFormviewerViewCenteredContent {width: 100% !important;}
