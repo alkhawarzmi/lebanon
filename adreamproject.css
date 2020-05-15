@@ -25,3 +25,7 @@ html[dir="rtl"] .tg-0lax{text-align:right;}
 html[dir="rtl"] .navbar-default .navbar-toggle, .navbar-inverse .navbar-toggle {left: 10px !important; right: auto;}
 html[dir="rtl"] .navbar-brand {float: right;}
 iframe.googleform .freebirdFormviewerViewCenteredContent {width: 100% !important;}
+.languageswitcher {padding: 10px 0px;}
+.pager {padding-left: 0; margin: 20px 0; text-align: center; list-style: none;}
+.pager li {display: inline;}
+.pager li a {display: inline-block; padding: 5px 14px; border: 1px solid #000;}
